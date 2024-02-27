@@ -1,1 +1,1 @@
-nihaowodeaireb
+print('hello world')
